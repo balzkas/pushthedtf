@@ -1,0 +1,15 @@
+# Import necessary modules
+import pygame
+ 
+# Initialize Pygame mixer
+pygame.mixer.init()
+ 
+# Load the MP3 file
+pygame.mixer.music.load("vegeta.mp3")
+ 
+# Play the MP3 file
+pygame.mixer.music.play()
+ 
+# Wait for the MP3 to finish playing
+while pygame.mixer.music.get_busy():
+    continue
