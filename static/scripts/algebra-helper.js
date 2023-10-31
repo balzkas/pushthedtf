@@ -15,15 +15,22 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
-      name: "Free Movies Watch",
+      name: "Free Movies Watch with Miles Morales",
       link: "https://freemovieswatch.tv",
       image: "/images/icons/freemovieswatch.png",
       categories: ["all", "media", "stream"],
       error: false
     },
+        {
+      name: "Free anime and shows zorox",
+      link: "https://zorox.to",
+      image: "/images/icons/freemovieswatch.png",
+      categories: ["all", "media", "stream"],
+      error: false
+    },
     {
-      name: "Scratch",
-      link: "https://scratch.mit.edu",
+      name: "Also free anime with e-kittens. Aniwatch.",
+      link: "https://aniwatch.to",
       image: "/images/icons/scratch.jpg",
       categories: ["all", "social", "game", "media", ""],
       error: false
@@ -283,7 +290,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.style.backgroundColor="rgb(45,45,45)";
     btn.style.borderRadius="50%";
     btn.style.borderColor="transparent";
-    btn.style.color="white";
+    btn.style.color="red";
     btn.style.top="-200px";
     btn.style.position="relative";
     btn.onclick = function () {
