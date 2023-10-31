@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
-      name: "Territorial.io",
+      name: "Gay.io",
       link: "https://territorial.io",
       image: "/images/icons/territorialio.ico",
       categories: ['all', '2P'],
@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
-      name: "Rainbow Obby",
+      name: "Gay Obby",
       link: "https://785a4295-96c4-43e5-b237-fb07fc3ef44d.poki-gdn.com/f1d39f75-7a25-41de-86cf-ba00804737b5/index.html",
       image: "/images/icons/rainbowobby.webp",
       categories: ['all', '2P'],
