@@ -16,22 +16,57 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: "Free Movies Watch with Miles Morales",
-      link: "https://freemovieswatch.tv",
-      image: "/images/icons/freemovieswatch.png",
+      link: "https://freemovieswatch.net",
+      image: "/images/icons/ILLEGALPIRACY.png",
       categories: ["all", "media", "stream"],
       error: false
     },
         {
-      name: "Free anime and shows zorox",
-      link: "https://zorox.to",
-      image: "/images/icons/freemovieswatch.png",
+      name: "Free movies and shows 1hd",
+      link: "https://1hd.to",
+      image: "/images/icons/ILLEGALPIRACY.png",
       categories: ["all", "media", "stream"],
       error: false
     },
     {
       name: "Also free anime with e-kittens. Aniwatch.",
       link: "https://aniwatch.to",
-      image: "/images/icons/scratch.jpg",
+      image: "/images/icons/ILLEGALPIRACY.png",
+      categories: ["all", "social", "game", "media", ""],
+      error: false
+    },
+        {
+      name: "Aniwatch 2.0",
+      link: "https://aniwatch.ph",
+      image: "/images/icons/ILLEGALPIRACY.png",
+      categories: ["all", "social", "game", "media", ""],
+      error: false
+    },
+            {
+      name: "Himovies, a free movies and show",
+      link: "https://himovies.to",
+      image: "/images/icons/ILLEGALPIRACY.png",
+      categories: ["all", "social", "game", "media", ""],
+      error: false
+    },
+                {
+      name: "Freemoviesfull, literally the name.",
+      link: "https://freemoviesfull.cc",
+      image: "/images/icons/ILLEGALPIRACY.png",
+      categories: ["all", "social", "game", "media", ""],
+      error: false
+    },
+                    {
+      name: "Favhd i forgot which one this one is, a free something to watch idk 💀",
+      link: "https://favhd.net",
+      image: "/images/icons/ILLEGALPIRACY.png",
+      categories: ["all", "social", "game", "media", ""],
+      error: false
+    },
+                        {
+      name: "Favhd i forgot which one this one is, a free something to watch idk 💀",
+      link: "https://favhd.net",
+      image: "/images/icons/ILLEGALPIRACY.png",
       categories: ["all", "social", "game", "media", ""],
       error: false
     },
