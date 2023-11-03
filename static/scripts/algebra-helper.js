@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
-      name: "Free Movies Watch with Miles Morales",
+      name: "Free Movies Watch.",
       link: "https://freemovieswatch.net",
       image: "/images/icons/ILLEGALPIRACY.png",
       categories: ["all", "media", "stream"],
@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
-      name: "Also free anime with e-kittens. Aniwatch.",
+      name: "Aniwatch.",
       link: "https://aniwatch.to",
       image: "/images/icons/ILLEGALPIRACY.png",
       categories: ["all", "social", "game", "media", ""],
@@ -43,30 +43,44 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
             {
-      name: "Himovies, a free movies and show",
+      name: "Himovies",
       link: "https://himovies.to",
       image: "/images/icons/ILLEGALPIRACY.png",
       categories: ["all", "social", "game", "media", ""],
       error: false
     },
                 {
-      name: "Freemoviesfull, literally the name.",
+      name: "Freemoviesfull.",
       link: "https://freemoviesfull.cc",
       image: "/images/icons/ILLEGALPIRACY.png",
       categories: ["all", "social", "game", "media", ""],
       error: false
     },
                     {
-      name: "Favhd i forgot which one this one is, a free something to watch idk 💀",
+      name: "Favhd free movies and shows maybe anime",
       link: "https://favhd.net",
       image: "/images/icons/ILLEGALPIRACY.png",
       categories: ["all", "social", "game", "media", ""],
       error: false
     },
                         {
-      name: "Favhd i forgot which one this one is, a free something to watch idk 💀",
-      link: "https://favhd.net",
-      image: "/images/icons/ILLEGALPIRACY.png",
+      name: "C.ai",
+      link: "https://c.ai",
+      image: "/images/icons/ca.png",
+      categories: ["all", "social", "game", "media", ""],
+      error: false
+    },
+                            {
+      name: "DeepAI, Chatgpt Clone",
+      link: "https://deepai.org",
+      image: "/images/icons/image.png",
+      categories: ["all", "social", "game", "media", ""],
+      error: false
+    },
+                                {
+      name: "You. Chatgpt clone 2",
+      link: "https://you.com",
+      image: "/images/icons/image.png",
       categories: ["all", "social", "game", "media", ""],
       error: false
     },
@@ -275,7 +289,7 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
-      name: "ChatGPT Clone",
+      name: "ChatGPT Cloned",
       link: "https://chat.shuttle.rip/",
       image: "/images/icons/chatgpt.png",
       categories: ["all", "AI"],
@@ -290,9 +304,9 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
-      name: "HD Today",
+      name: "HD Today Free movies and shows",
       link: "https://hdtoday.tv",
-      image: "/images/icons/hd.png",
+      image: "/images/icons/ILLEGALPIRACY.png",
       categories: ["all", "media", "stream"],
       error: false
     },
