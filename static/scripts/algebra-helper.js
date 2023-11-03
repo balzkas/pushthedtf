@@ -63,8 +63,17 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ["all", "social", "game", "media", ""],
       error: false
     },
+  
                         {
-      name: "C.ai",
+      name: "Crush AI, c.ai alternative",
+      link: "https://https://crushon.ai/",
+      image: "/images/icons/ILLEGALPIRACY.png",
+      categories: ["all", "social", "game", "media", ""],
+      error: false
+    },
+            
+                        {
+      name: "C.ai, may not work",
       link: "https://c.ai",
       image: "/images/icons/ca.png",
       categories: ["all", "social", "game", "media", ""],
