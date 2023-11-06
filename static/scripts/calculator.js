@@ -57,6 +57,13 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ['all'],
       error: false
     },
+        {
+      name: "Ripoff Minecraft",
+      link: "https://d1tm91r4ytbt54.cloudfront.net/2779cbcb-a02f-48a3-9e2e-95a8d123d165/1685483461665/web/index.html",
+      image: "/images/icon/wag.png",
+      categories: ['all'],
+      error: false
+    },
     {
       name: "Gay.io",
       link: "https://territorial.io",
