@@ -15,31 +15,31 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
-      name: "Free Movies Watch.",
+      name: "Free Movies Watch",
       link: "https://freemovieswatch.net",
       image: "/images/icons/ILLEGALPIRACY.png",
       categories: ["all", "media", "stream"],
       error: false
     },
         {
-      name: "Free movies and shows 1hd",
+      name: "1Hd Shows",
       link: "https://1hd.to",
       image: "/images/icons/ILLEGALPIRACY.png",
       categories: ["all", "media", "stream"],
       error: false
     },
     {
-      name: "Aniwatch.",
+      name: "Aniwatch Anime",
       link: "https://aniwatch.to",
       image: "/images/icons/ILLEGALPIRACY.png",
-      categories: ["all", "social", "game", "media", ""],
+      categories: ["all", "social", "media", "stream", ""],
       error: false
     },
         {
       name: "Aniwatch 2.0",
       link: "https://aniwatch.ph",
       image: "/images/icons/ILLEGALPIRACY.png",
-      categories: ["all", "social", "game", "media", ""],
+      categories: ["all", "social", "stream", "media", ""],
       error: false
     },
             {
@@ -50,47 +50,47 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
                 {
-      name: "Freemoviesfull.",
+      name: "Freemoviesfull",
       link: "https://freemoviesfull.cc",
       image: "/images/icons/ILLEGALPIRACY.png",
-      categories: ["all", "social", "game", "media", ""],
+      categories: ["all", "social", "stream", "media", ""],
       error: false
     },
                     {
-      name: "Favhd free movies and shows maybe anime",
+      name: "Favhd",
       link: "https://favhd.net",
       image: "/images/icons/ILLEGALPIRACY.png",
-      categories: ["all", "social", "game", "media", ""],
+      categories: ["all", "social", "stream", "media", ""],
       error: false
     },
   
                         {
-      name: "Crush AI, c.ai alternative",
+      name: "Crush AI",
       link: "https://https://crushon.ai/",
-      image: "/images/icons/ILLEGALPIRACY.png",
-      categories: ["all", "social", "game", "media", ""],
+      image: "/images/icons/chatgpt.png",
+      categories: ["all", "social", "AI", ""],
       error: false
     },
             
                         {
-      name: "C.ai, may not work",
+      name: "C.ai",
       link: "https://c.ai",
-      image: "/images/icons/ca.png",
-      categories: ["all", "social", "game", "media", ""],
+      image: "/images/icons/chatgpt.png",
+      categories: ["all", "social", "AI", ""],
       error: false
     },
                             {
-      name: "DeepAI, Chatgpt Clone",
+      name: "DeepAI",
       link: "https://deepai.org",
-      image: "/images/icons/image.png",
-      categories: ["all", "social", "game", "media", ""],
+      image: "/images/icons/chatgpt.png",
+      categories: ["all", "social", "AI", ""],
       error: false
     },
                                 {
-      name: "You. Chatgpt clone 2",
+      name: "You AI",
       link: "https://you.com",
-      image: "/images/icons/image.png",
-      categories: ["all", "social", "game", "media", ""],
+      image: "/images/icons/chatgpt.png",
+      categories: ["all", "social", "AI", ""],
       error: false
     },
     {
