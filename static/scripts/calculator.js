@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
   const appsList = [
     {
-      name: "! Request A Game [UPDATED]",
-      link: "https://forms.gle/94fJ9yAXQCgaXTrz6",
+      name: "! Request A Game Or App",
+      link: "https://cryptpad.fr/form/#/2/form/view/HacY1HLwtHwSkXxZqpiUGtNwyfWsyemQ1izYphvZL7E/",
       image: "/images/icons/request.webp",
       categories: ['all'],
       error: false
@@ -40,6 +40,20 @@ document.addEventListener('DOMContentLoaded', () => {
       name: "Brain Test 2",
       link: "https://games.poki.com/458768/df221093-aae9-4c0d-b458-efb16ae8e3ab",
       image: "/images/icons/braintest.png",
+      categories: ['all'],
+      error: false
+    },
+        {
+      name: "Roblox",
+      link: "https://roblox.com",
+      image: "/images/icons/roblox.png",
+      categories: ['all'],
+      error: false
+    },
+            {
+      name: "Papa Johns",
+      link: "https://www.papajohns.com/",
+      image: "/images/icons/roblox.png",
       categories: ['all'],
       error: false
     },
